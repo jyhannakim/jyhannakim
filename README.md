@@ -2,10 +2,9 @@
 
 # Yae-Ji Kim
 
-### Computer Science Student · Applied AI & Computer Vision
+### Computer Science · Applied AI · Generative AI · Computer Vision
 
-I build practical AI applications, turning ideas into working prototypes with
-computer vision, language models, and thoughtful product experiences.
+I build practical AI applications and explore how they can improve everyday workflows.
 
 </div>
 
