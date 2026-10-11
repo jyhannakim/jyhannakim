@@ -13,6 +13,7 @@ I build practical AI applications and explore how they can improve everyday work
 ## About Me
 
 - **B.S. Candidate**, School of Software, Kookmin University · Expected February 2027
+- **Temple University, USA** · Summer Language Program · Jul–Aug 2023
 - Interested in **Computer Vision**, **Generative AI**, and AI-powered products
 - I enjoy the whole process: exploring a problem, preparing data, experimenting with models, and building a demo
 - Korean (Native) · English (Fluent)
@@ -27,7 +28,8 @@ I build practical AI applications and explore how they can improve everyday work
 - **Prometheus University AI Association** · Operations Team, Public Relations · Feb 2025
 - **Kakao Tech Bootcamp** · Generative AI Track · Jun–Dec 2024  
   Completed intensive training in Generative AI development and applied AI projects.
-
+- **LG CNS AI Genius Supporters** · Mar–Jun 2024
+  
 ## Awards & Certification
 
 - **Grand Prize**, 2026 KMUCS EXPO · Kookmin University Capstone Design · 2026
