@@ -2,9 +2,9 @@
 
 # Yae-Ji Kim
 
-### Computer Science · Applied AI · Generative AI · Computer Vision
+### Computer Vision · Robotics · Physical AI
 
-I build practical AI applications and explore how they can improve everyday workflows.
+I build practical AI systems and explore how they can support human mobility and everyday life.
 
 </div>
 
