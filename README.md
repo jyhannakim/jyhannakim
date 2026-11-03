@@ -57,9 +57,12 @@ I build practical AI applications and explore how they can improve everyday work
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-**Robotics & Computer Vision**: ROS2 · OpenCV · PyTorch · SegFormer · YOLO · Camera Calibration · IPM/BEV · Path Planning
-**AI & ML:** Deep Learning · Object Detection · Semantic/Instance Segmentation · LSTM · LoRA Fine-tuning
-**Systems & Tools:** FastAPI · gRPC · Linux · Git · MLflow · MATLAB · Arduino/ESP32
+
+Robotics & Computer Vision:ROS2 · OpenCV · PyTorch · SegFormer · YOLO · Camera Calibration · IPM/BEV · Path Planning
+
+AI & ML: Deep Learning · Object Detection · Semantic/Instance Segmentation · LSTM · LoRA Fine-tuning
+
+Systems & Tools: FastAPI · gRPC · Linux · Git · MLflow · MATLAB · Arduino/ESP32
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:14B8A6&height=120&section=footer" alt="Decorative wave footer" width="100%">
