@@ -27,45 +27,39 @@ I build practical AI systems and explore how they can support human mobility and
 - **Kakao Tech Bootcamp** · Generative AI Track · Jun–Dec 2024  
   Completed intensive training in Generative AI development and applied AI projects.
 - **LG CNS AI Genius Supporters** · Mar–Jun 2024
-  
+
 ## Awards & Certification
 
-- 🏆**Grand Prize**, 2026 KMUCS EXPO · Kookmin University Capstone Design · 2026
-- 🏆**Grand Prize**, AI Challenge Season 2 · Career Starter Growth Simulation Game · 2025
-- 🥇**1st Place**, PROMETHEUS Hackathon · AI for Legal Review Report Summarization · 2024
+- **Grand Prize**, 2026 KMUCS EXPO · Kookmin University Capstone Design · 2026
+- **Grand Prize**, AI Challenge Season 2 · Career Starter Growth Simulation Game · 2025
+- **1st Place**, PROMETHEUS Hackathon · AI for Legal Review Report Summarization · 2024
 - **SQL Developer (SQLD)**
 
 ## Tech Stack
 
-### Programming
+<div align="center">
+
+**Computer Vision · Segmentation · Camera Calibration · IPM/BEV · Path Planning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
-
-### Robotics & Computer Vision
-
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-ROS2 · SegFormer · YOLO · Camera Calibration · IPM/BEV · Path Planning
-
-### AI & ML
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-Deep Learning · Object Detection · Semantic/Instance Segmentation · LSTM · LoRA Fine-tuning
-
-### Systems & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-FastAPI · gRPC · Linux · MATLAB · Arduino/ESP32
+</div>
 
 ## Blog
 
