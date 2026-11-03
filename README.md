@@ -14,15 +14,11 @@ I build practical AI applications and explore how they can improve everyday work
 
 - **B.S. Candidate**, School of Software, Kookmin University · Expected February 2027
 - **Temple University, USA** · Summer Language Program · Jul–Aug 2023
-- Interested in Robot Perception, Motion Planning, Robot Learning, and Human-Centered Physical AI
+- Interested in **Robot Perception, Motion Planning, Robot Learning, and Human-Centered Physical AI**
 - Experienced in developing and testing AI systems on real-world platforms, including autonomous vehicles and assistive technologies
-- I enjoy the process of building, experimenting, testing, and improving systems in real environments
+- I enjoy the process of **building, experimenting, testing, and improving systems in real environments**
 - My long-term goal is to develop intelligent robotic systems that support human mobility and everyday life
 - Korean (Native) · English (Fluent)
-
-## Blog
-
-🚧 Currently updating.
 
 ## Experience
 
@@ -41,28 +37,39 @@ I build practical AI applications and explore how they can improve everyday work
 
 ## Tech Stack
 
-<div align="center">
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+
+### Robotics & Computer Vision
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+ROS2 · SegFormer · YOLO · Camera Calibration · IPM/BEV · Path Planning
+
+### AI & ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+Deep Learning · Object Detection · Semantic/Instance Segmentation · LSTM · LoRA Fine-tuning
+
+### Systems & Tools
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+FastAPI · gRPC · Linux · MATLAB · Arduino/ESP32
 
-Robotics & Computer Vision:ROS2 · OpenCV · PyTorch · SegFormer · YOLO · Camera Calibration · IPM/BEV · Path Planning
+## Blog
 
-AI & ML: Deep Learning · Object Detection · Semantic/Instance Segmentation · LSTM · LoRA Fine-tuning
-
-Systems & Tools: FastAPI · gRPC · Linux · Git · MLflow · MATLAB · Arduino/ESP32
+🚧 Currently updating.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:14B8A6&height=120&section=footer" alt="Decorative wave footer" width="100%">
