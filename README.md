@@ -30,9 +30,9 @@ I build practical AI systems and explore how they can support human mobility and
 
 ## Awards & Certification
 
-- **Grand Prize**, 2026 KMUCS EXPO · Kookmin University Capstone Design · 2026
-- **Grand Prize**, AI Challenge Season 2 · Career Starter Growth Simulation Game · 2025
-- **1st Place**, PROMETHEUS Hackathon · AI for Legal Review Report Summarization · 2024
+- 🏆**Grand Prize**, 2026 KMUCS EXPO · Kookmin University Capstone Design · 2026
+- 🏆**Grand Prize**, AI Challenge Season 2 · Career Starter Growth Simulation Game · 2025
+- 🥇**1st Place**, PROMETHEUS Hackathon · AI for Legal Review Report Summarization · 2024
 - **SQL Developer (SQLD)**
 
 ## Tech Stack
