@@ -14,8 +14,10 @@ I build practical AI applications and explore how they can improve everyday work
 
 - **B.S. Candidate**, School of Software, Kookmin University · Expected February 2027
 - **Temple University, USA** · Summer Language Program · Jul–Aug 2023
-- Interested in **Computer Vision**, **Generative AI**, and AI-powered products
-- I enjoy the whole process: exploring a problem, preparing data, experimenting with models, and building a demo
+- Interested in Robot Perception, Motion Planning, Robot Learning, and Human-Centered Physical AI
+- Experienced in developing and testing AI systems on real-world platforms, including autonomous vehicles and assistive technologies
+- I enjoy the process of building, experimenting, testing, and improving systems in real environments
+- My long-term goal is to develop intelligent robotic systems that support human mobility and everyday life
 - Korean (Native) · English (Fluent)
 
 ## Blog
@@ -55,9 +57,9 @@ I build practical AI applications and explore how they can improve everyday work
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
-**AI:** Object Detection · Instance Segmentation · YOLO · LSTM · LoRA Fine-tuning  
-**Tools:** MATLAB · Home Assistant · Arduino / ESP32
+**Robotics & Computer Vision**: ROS2 · OpenCV · PyTorch · SegFormer · YOLO · Camera Calibration · IPM/BEV · Path Planning
+**AI & ML:** Deep Learning · Object Detection · Semantic/Instance Segmentation · LSTM · LoRA Fine-tuning
+**Systems & Tools:** FastAPI · gRPC · Linux · Git · MLflow · MATLAB · Arduino/ESP32
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:14B8A6&height=120&section=footer" alt="Decorative wave footer" width="100%">
